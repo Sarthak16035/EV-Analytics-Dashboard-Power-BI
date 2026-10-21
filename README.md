@@ -1,4 +1,3 @@
-# EV-Analytics-Dashboard-Power-BI
 # Global EV Analytics Dashboard (Power BI)
 
 An interactive 4-page Power BI dashboard that explores how electric vehicles have grown worldwide, using the IEA Global EV Data 2024 dataset.
@@ -30,10 +29,10 @@ Power BI, Power Query (data cleaning), DAX (measures)
 | Parameter & Unit Analysis | Sales vs stock, energy consumption, and a region-by-parameter table |
 | Time Series & Comparative Analysis | Global stock trend, top regions, BEV vs PHEV, cumulative stock |
 
-![Regional & Category Trends](screenshots/Regional-analysis.png)
-![Powertrain & Mode Insights](screenshots/Powertrain_Mode.png)
-![Parameter & Unit Analysis](screenshots/Parameter_Unit.png)
-![Time Series & Comparative Analysis](screenshots/TimeSeries_Comparitive.png)
+![Regional & Category Trends](Regional-analysis.png)
+![Powertrain & Mode Insights](Powertrain%26Mode.png)
+![Parameter & Unit Analysis](Parameter%26Unit.png)
+![Time Series & Comparative Analysis](TimeSeries%26Comparitive.png)
 
 ## Key Findings
 
@@ -63,9 +62,9 @@ Power BI, Power Query (data cleaning), DAX (measures)
 
 ## Files
 
-- `EV_Dashboard.pbix`: the Power BI report
-- `IEA_Global_EV_Data_2024.csv`: the source dataset
-- `screenshots/`: images of each dashboard page
+- `project.pbix`: the Power BI report
+- `IEA Global EV Data 2024.csv`: the source dataset
+- `Regional-analysis.png`, `Powertrain&Mode.png`, `Parameter&Unit.png`, `TimeSeries&Comparitive.png`: screenshots of each dashboard page
 
 ## Author
 
